@@ -8,5 +8,5 @@ TEL;TYPE=CELL;PREF:+5511973373086
 TEL;TYPE=WORK:+551126665418
 EMAIL;TYPE=WORK:akira.suzuki@fuabc.org.br
 URL:https://www.fuabc.org.br
-X-SOCIALPROFILE;type=Instagram;x-user=@fuabcoficial:https://instagram.com/fuabcoficial
+URL;type=Instagram:https://instagram.com/fuabcoficial
 END:VCARD
