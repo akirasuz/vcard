@@ -4,7 +4,6 @@ N:Suzuki;Akira;;;
 FN:Akira Suzuki
 ORG:Fundação do ABC
 TITLE:Analista de comunicação
-TEL;TYPE=CELL;PREF:+5511973373086
-TEL;TYPE=WORK:+551126665418
+TEL;TYPE=CELL:+5511973373086
 EMAIL;TYPE=WORK:akira.suzuki@fuabc.org.br
 END:VCARD
